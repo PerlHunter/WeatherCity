@@ -1,6 +1,6 @@
 
 # Privacy Policy
-MeteoInfo is developed by To Apps. Applications are provided by To Apps and is intended for use as is.
+MeteoInfo is developed by Perl Hunter. Applications are provided by Perl Hunter and is intended for use as is.
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Information if anyone decided to use our Applications.
 
