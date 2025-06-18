@@ -6,7 +6,7 @@ This page is used to inform users regarding our policies with the collection, us
 
 If you choose to use our applications, then you agree to the collection and use of information in relation to this policy. The Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at WeatherCity unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at MeteoInfo unless otherwise defined in this Privacy Policy.
 
 ## Personal Information
 We do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number or email address.
