@@ -1,6 +1,6 @@
 
 # Privacy Policy
-WeatherCity is developed by To Apps. Applications are provided by To Apps and is intended for use as is.
+MeteoInfo is developed by To Apps. Applications are provided by To Apps and is intended for use as is.
 
 This page is used to inform users regarding our policies with the collection, use, and disclosure of Information if anyone decided to use our Applications.
 
@@ -44,7 +44,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page. This policy is effective as of 2022-09-17
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at mpas14142@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at travelfrog99two@gmail.com.
 
 To Apps Development Company
 
